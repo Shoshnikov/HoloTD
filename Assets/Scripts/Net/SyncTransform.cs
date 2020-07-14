@@ -58,6 +58,7 @@ public class SyncTransform : MonoBehaviour //Реализация синхрон
         Vector3 takenPos = new Vector3(x, y, z);
         gameObject.transform.position = takenPos;
         LastPos = takenPos; //В прошлой реазлизации забыл изменить ластпозишн
+        Debug.Log("RpcSendTransform");
     }
 
     [PunRPC]
@@ -66,6 +67,7 @@ public class SyncTransform : MonoBehaviour //Реализация синхрон
         Quaternion takenRot = new Quaternion(x, y, z, w);
         gameObject.transform.rotation = takenRot;
         LastRot = takenRot;
+        Debug.Log("RpcSendRotation");
     }
 
     [PunRPC]
@@ -73,6 +75,7 @@ public class SyncTransform : MonoBehaviour //Реализация синхрон
     {
         Vector3 takenScale = new Vector3(x, y, z);
         gameObject.transform.localScale = takenScale;
+        Debug.Log("RpcSendScale");
     }
 
     [PunRPC]
@@ -82,6 +85,18 @@ public class SyncTransform : MonoBehaviour //Реализация синхрон
         gameObject.GetComponent<Rigidbody>().isKinematic = kinematic;
         lastAnim = Anim;
         lastKinem = kinematic;
+        Debug.Log("RpcSendAnimatorAndKinematic");
+    }
+
+    [PunRPC]
+    private void Message(string message)
+    {
+        Debug.Log($"Message {message}");
+    }
+
+    public void Mes(string message)
+    {
+        PV.RPC("Message", RpcTarget.All, message);
     }
 
 }
