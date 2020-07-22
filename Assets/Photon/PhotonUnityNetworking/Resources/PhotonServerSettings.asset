@@ -41,6 +41,8 @@ MonoBehaviour:
   - RpcSendScale
   - RpcSendTransform
   - Message
+  - MessagePosition
+  - MessageRotation
   DisableAutoOpenWizard: 1
   ShowSettings: 1
   DevRegionSetOnce: 1

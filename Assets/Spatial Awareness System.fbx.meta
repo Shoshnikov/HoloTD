@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 4fc4ca810b9e5544b9d2929876e51dc7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SpatialMesh - 1000
+    100004: SpatialMesh - 1000_anchor
+    100006: SpatialMesh - 1001
+    100008: SpatialMesh - 1001_anchor
+    100010: SpatialMesh - 1002
+    100012: SpatialMesh - 1002_anchor
+    100014: SpatialMesh - 1003
+    100016: SpatialMesh - 1003_anchor
+    100018: SpatialMesh - 1004
+    100020: SpatialMesh - 1004_anchor
+    100022: SpatialMesh - 1005
+    100024: SpatialMesh - 1005_anchor
+    100026: SpatialMesh - 1006
+    100028: SpatialMesh - 1006_anchor
+    100030: SpatialMesh - 1007
+    100032: SpatialMesh - 1007_anchor
+    100034: SpatialMesh - 1007_anchor 1
+    100036: SpatialMesh - 1008
+    100038: SpatialMesh - 1008_anchor
+    100040: SpatialMesh - 1009
+    100042: SpatialMesh - 1009_anchor
+    100044: SpatialMesh - 1010
+    100046: SpatialMesh - 1010_anchor
+    100048: SpatialMesh - 1011
+    100050: SpatialMesh - 1011_anchor
+    100052: SpatialMesh - 1012
+    100054: SpatialMesh - 1012_anchor
+    100056: SpatialMesh - 1013
+    100058: SpatialMesh - 1013_anchor
+    100060: Unused Spatial Mesh
+    100062: Windows Mixed Reality Spatial Mesh Observer
+    400000: //RootNode
+    400002: SpatialMesh - 1000
+    400004: SpatialMesh - 1000_anchor
+    400006: SpatialMesh - 1001
+    400008: SpatialMesh - 1001_anchor
+    400010: SpatialMesh - 1002
+    400012: SpatialMesh - 1002_anchor
+    400014: SpatialMesh - 1003
+    400016: SpatialMesh - 1003_anchor
+    400018: SpatialMesh - 1004
+    400020: SpatialMesh - 1004_anchor
+    400022: SpatialMesh - 1005
+    400024: SpatialMesh - 1005_anchor
+    400026: SpatialMesh - 1006
+    400028: SpatialMesh - 1006_anchor
+    400030: SpatialMesh - 1007
+    400032: SpatialMesh - 1007_anchor
+    400034: SpatialMesh - 1007_anchor 1
+    400036: SpatialMesh - 1008
+    400038: SpatialMesh - 1008_anchor
+    400040: SpatialMesh - 1009
+    400042: SpatialMesh - 1009_anchor
+    400044: SpatialMesh - 1010
+    400046: SpatialMesh - 1010_anchor
+    400048: SpatialMesh - 1011
+    400050: SpatialMesh - 1011_anchor
+    400052: SpatialMesh - 1012
+    400054: SpatialMesh - 1012_anchor
+    400056: SpatialMesh - 1013
+    400058: SpatialMesh - 1013_anchor
+    400060: Unused Spatial Mesh
+    400062: Windows Mixed Reality Spatial Mesh Observer
+    2100000: Spatial Awareness System_MRTK_Wireframe pink
+    2300000: //RootNode
+    2300002: SpatialMesh - 1000
+    2300004: SpatialMesh - 1000_anchor
+    2300006: SpatialMesh - 1001
+    2300008: SpatialMesh - 1001_anchor
+    2300010: SpatialMesh - 1002
+    2300012: SpatialMesh - 1002_anchor
+    2300014: SpatialMesh - 1003
+    2300016: SpatialMesh - 1003_anchor
+    2300018: SpatialMesh - 1004
+    2300020: SpatialMesh - 1004_anchor
+    2300022: SpatialMesh - 1005
+    2300024: SpatialMesh - 1005_anchor
+    2300026: SpatialMesh - 1006
+    2300028: SpatialMesh - 1006_anchor
+    2300030: SpatialMesh - 1007
+    2300032: SpatialMesh - 1007_anchor
+    2300034: SpatialMesh - 1007_anchor 1
+    2300036: SpatialMesh - 1008
+    2300038: SpatialMesh - 1008_anchor
+    2300040: SpatialMesh - 1009
+    2300042: SpatialMesh - 1009_anchor
+    2300044: SpatialMesh - 1010
+    2300046: SpatialMesh - 1010_anchor
+    2300048: SpatialMesh - 1011
+    2300050: SpatialMesh - 1011_anchor
+    2300052: SpatialMesh - 1012
+    2300054: SpatialMesh - 1012_anchor
+    2300056: SpatialMesh - 1013
+    2300058: SpatialMesh - 1013_anchor
+    2300060: Windows Mixed Reality Spatial Mesh Observer
+    3300000: //RootNode
+    3300002: SpatialMesh - 1000
+    3300004: SpatialMesh - 1000_anchor
+    3300006: SpatialMesh - 1001
+    3300008: SpatialMesh - 1001_anchor
+    3300010: SpatialMesh - 1002
+    3300012: SpatialMesh - 1002_anchor
+    3300014: SpatialMesh - 1003
+    3300016: SpatialMesh - 1003_anchor
+    3300018: SpatialMesh - 1004
+    3300020: SpatialMesh - 1004_anchor
+    3300022: SpatialMesh - 1005
+    3300024: SpatialMesh - 1005_anchor
+    3300026: SpatialMesh - 1006
+    3300028: SpatialMesh - 1006_anchor
+    3300030: SpatialMesh - 1007
+    3300032: SpatialMesh - 1007_anchor
+    3300034: SpatialMesh - 1007_anchor 1
+    3300036: SpatialMesh - 1008
+    3300038: SpatialMesh - 1008_anchor
+    3300040: SpatialMesh - 1009
+    3300042: SpatialMesh - 1009_anchor
+    3300044: SpatialMesh - 1010
+    3300046: SpatialMesh - 1010_anchor
+    3300048: SpatialMesh - 1011
+    3300050: SpatialMesh - 1011_anchor
+    3300052: SpatialMesh - 1012
+    3300054: SpatialMesh - 1012_anchor
+    3300056: SpatialMesh - 1013
+    3300058: SpatialMesh - 1013_anchor
+    3300060: Windows Mixed Reality Spatial Mesh Observer
+    4300000: Spatial Awareness System
+    4300002: Windows Mixed Reality Spatial Mesh Observer
+    4300004: SpatialMesh - 1011
+    4300006: SpatialMesh - 1009_anchor
+    4300008: SpatialMesh - 1003
+    4300010: SpatialMesh - 1003_anchor
+    4300012: SpatialMesh - 1009
+    4300014: SpatialMesh - 1010_anchor
+    4300016: SpatialMesh - 1012
+    4300018: SpatialMesh - 1002_anchor
+    4300020: SpatialMesh - 1000
+    4300022: SpatialMesh - 1011_anchor
+    4300024: SpatialMesh - 1004
+    4300026: SpatialMesh - 1004_anchor
+    4300028: SpatialMesh - 1010
+    4300030: SpatialMesh - 1007_anchor
+    4300032: SpatialMesh - 1001
+    4300034: SpatialMesh - 1001_anchor
+    4300036: SpatialMesh - 1008
+    4300038: SpatialMesh - 1008_anchor
+    4300040: SpatialMesh - 1006
+    4300042: SpatialMesh - 1006_anchor
+    4300044: SpatialMesh - 1000_anchor
+    4300046: SpatialMesh - 1005
+    4300048: SpatialMesh - 1005_anchor
+    4300050: SpatialMesh - 1013
+    4300052: SpatialMesh - 1013_anchor
+    4300054: SpatialMesh - 1002
+    4300056: SpatialMesh - 1012_anchor
+    4300058: SpatialMesh - 1007
+    4300060: SpatialMesh - 1007_anchor
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
