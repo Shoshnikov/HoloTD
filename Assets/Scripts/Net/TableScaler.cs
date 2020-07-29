@@ -26,16 +26,19 @@ public class TableScaler : MonoBehaviourPunCallbacks
     private WorldAnchorStore worldAnchorStore;
     private bool savedAnchor;
     private int retryCount = 10;
+    private Vector3 startScale;
     public byte[] fileData { get; private set; }
 
     private void Awake()
     {
         transform = gameObject.GetComponent<Transform>();
         photonView = gameObject.GetComponent<PhotonView>();
+        startScale = transform.localScale;
     }
 
     public void Table(int w8Time)
     {
+        transform.localScale = startScale;
         Invoke("DropTable", w8Time);
     }
 
@@ -75,7 +78,7 @@ public class TableScaler : MonoBehaviourPunCallbacks
 
         transform.rotation = onAngleMaxScale;
         transform.localScale = MaxScale;
-        ExportWorldAnchor();
+        //ExportWorldAnchor();
     }
 
     private void Update()
@@ -131,10 +134,10 @@ public class TableScaler : MonoBehaviourPunCallbacks
 
     public override void OnJoinedRoom()
     {
-        if (PhotonNetwork.IsMasterClient)
-        {
-            Table(7);
-        }
+        //if (PhotonNetwork.IsMasterClient)
+        //{
+        //    Table(7);
+        //}
     }
 
     public override void OnLeftRoom()
