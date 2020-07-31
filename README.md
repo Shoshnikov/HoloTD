@@ -11,6 +11,6 @@ What was used:
   - Magic
 ***
 ![Photo](https://cdn.discordapp.com/attachments/587016692081885230/738351152449454130/20200724_143838_HoloLens.jpg "Test of the algorithm for changing the table size")
-[test scale video](https://www.dropbox.com/s/37m3q6syf62ih9a/AssetBundle.mp4?dl=0 "Test of the algorithm for changing the table size")
+[test scale video](https://www.dropbox.com/s/vjhqrgh7gdba2sk/MuteHololens.mp4?dl=0 "Test of the algorithm for changing the table size")
 
 
